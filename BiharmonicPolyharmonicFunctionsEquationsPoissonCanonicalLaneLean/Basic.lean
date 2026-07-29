@@ -1,0 +1,2 @@
+import BiharmonicPolyharmonicFunctionsEquationsPoissonCanonicalLaneLean.GateLemmas
+import BiharmonicPolyharmonicFunctionsEquationsPoissonCanonicalLaneLean.FinalTheorem
